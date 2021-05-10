@@ -19,6 +19,6 @@
 
 > Jo Anime Search
 
-[LICENSE]()
+[LICENSE](https://github.com/JoPowerTech/JoAnimeSearch/blob/main/LICENSE)
 
 <hr>
